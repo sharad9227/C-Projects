@@ -1,0 +1,8 @@
+\\uol.le.ac.uk\root\student\home\s\src31\Desktop Files\assignment2\libraryApplication\RetailApplication\bin\RetailApplication.dll.config
+\\uol.le.ac.uk\root\student\home\s\src31\Desktop Files\assignment2\libraryApplication\RetailApplication\bin\RetailApplication.dll
+\\uol.le.ac.uk\root\student\home\s\src31\Desktop Files\assignment2\libraryApplication\RetailApplication\bin\RetailApplication.pdb
+\\uol.le.ac.uk\root\student\home\s\src31\Desktop Files\assignment2\libraryApplication\RetailApplication\obj\Release\RetailApplication.csprojAssemblyReference.cache
+\\uol.le.ac.uk\root\student\home\s\src31\Desktop Files\assignment2\libraryApplication\RetailApplication\obj\Release\RetailApplication.csproj.CoreCompileInputs.cache
+\\uol.le.ac.uk\root\student\home\s\src31\Desktop Files\assignment2\libraryApplication\RetailApplication\obj\Release\RetailApplication.csproj.CopyComplete
+\\uol.le.ac.uk\root\student\home\s\src31\Desktop Files\assignment2\libraryApplication\RetailApplication\obj\Release\RetailApplication.dll
+\\uol.le.ac.uk\root\student\home\s\src31\Desktop Files\assignment2\libraryApplication\RetailApplication\obj\Release\RetailApplication.pdb

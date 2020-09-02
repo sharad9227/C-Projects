@@ -1,0 +1,18 @@
+Z:\My Documents\Visual Studio 2017\Projects\RetailApplication\ClientApplication\bin\Debug\ClientApplication.exe.config
+Z:\My Documents\Visual Studio 2017\Projects\RetailApplication\ClientApplication\bin\Debug\ClientApplication.exe
+Z:\My Documents\Visual Studio 2017\Projects\RetailApplication\ClientApplication\bin\Debug\ClientApplication.pdb
+Z:\My Documents\Visual Studio 2017\Projects\RetailApplication\ClientApplication\obj\Debug\ClientApplication.csprojResolveAssemblyReference.cache
+Z:\My Documents\Visual Studio 2017\Projects\RetailApplication\ClientApplication\obj\Debug\ClientApplication.exe
+Z:\My Documents\Visual Studio 2017\Projects\RetailApplication\ClientApplication\obj\Debug\ClientApplication.pdb
+\\uol.le.ac.uk\root\student\home\s\src31\Desktop Files\final project\RetailApplication\ClientApplication\bin\Debug\ClientApplication.exe.config
+\\uol.le.ac.uk\root\student\home\s\src31\Desktop Files\final project\RetailApplication\ClientApplication\bin\Debug\ClientApplication.exe
+\\uol.le.ac.uk\root\student\home\s\src31\Desktop Files\final project\RetailApplication\ClientApplication\bin\Debug\ClientApplication.pdb
+\\uol.le.ac.uk\root\student\home\s\src31\Desktop Files\final project\RetailApplication\ClientApplication\obj\Debug\ClientApplication.exe
+\\uol.le.ac.uk\root\student\home\s\src31\Desktop Files\final project\RetailApplication\ClientApplication\obj\Debug\ClientApplication.pdb
+\\uol.le.ac.uk\root\student\home\s\src31\Desktop Files\final project\RetailApplication\ClientApplication\obj\Debug\ClientApplication.csprojAssemblyReference.cache
+\\uol.le.ac.uk\root\student\home\s\src31\Desktop Files\final project\RetailApplication\ClientApplication\obj\Debug\ClientApplication.csproj.CoreCompileInputs.cache
+\\uol.le.ac.uk\root\student\home\s\src31\Desktop Files\final project\RetailApplication\ClientApplication\bin\Debug\RetailApplication.dll
+\\uol.le.ac.uk\root\student\home\s\src31\Desktop Files\final project\RetailApplication\ClientApplication\bin\Debug\MySql.Data.dll
+\\uol.le.ac.uk\root\student\home\s\src31\Desktop Files\final project\RetailApplication\ClientApplication\bin\Debug\RetailApplication.pdb
+\\uol.le.ac.uk\root\student\home\s\src31\Desktop Files\final project\RetailApplication\ClientApplication\bin\Debug\RetailApplication.dll.config
+\\uol.le.ac.uk\root\student\home\s\src31\Desktop Files\final project\RetailApplication\ClientApplication\obj\Debug\ClientApplication.csproj.CopyComplete

@@ -1,0 +1,30 @@
+\\uol.le.ac.uk\root\student\home\s\src31\my documents\visual studio 2017\Projects\RetailApplication\RetailApplication\bin\RetailApplication.dll.config
+\\uol.le.ac.uk\root\student\home\s\src31\my documents\visual studio 2017\Projects\RetailApplication\RetailApplication\bin\RetailApplication.dll
+\\uol.le.ac.uk\root\student\home\s\src31\my documents\visual studio 2017\Projects\RetailApplication\RetailApplication\bin\RetailApplication.pdb
+\\uol.le.ac.uk\root\student\home\s\src31\my documents\visual studio 2017\Projects\RetailApplication\RetailApplication\obj\Debug\RetailApplication.csprojResolveAssemblyReference.cache
+\\uol.le.ac.uk\root\student\home\s\src31\my documents\visual studio 2017\Projects\RetailApplication\RetailApplication\obj\Debug\RetailApplication.dll
+\\uol.le.ac.uk\root\student\home\s\src31\my documents\visual studio 2017\Projects\RetailApplication\RetailApplication\obj\Debug\RetailApplication.pdb
+\\uol.le.ac.uk\root\student\home\s\src31\my documents\visual studio 2017\Projects\RetailApplication\RetailApplication\bin\MySql.Data.dll
+Z:\My Documents\Visual Studio 2017\Projects\RetailApplication\RetailApplication\obj\Debug\RetailApplication.csprojResolveAssemblyReference.cache
+Z:\My Documents\Visual Studio 2017\Projects\RetailApplication\RetailApplication\obj\Debug\RetailApplication.dll
+Z:\My Documents\Visual Studio 2017\Projects\RetailApplication\RetailApplication\obj\Debug\RetailApplication.pdb
+Z:\My Documents\Visual Studio 2017\Projects\RetailApplication\RetailApplication\bin\RetailApplication.dll.config
+Z:\My Documents\Visual Studio 2017\Projects\RetailApplication\RetailApplication\bin\RetailApplication.dll
+Z:\My Documents\Visual Studio 2017\Projects\RetailApplication\RetailApplication\bin\RetailApplication.pdb
+Z:\My Documents\Visual Studio 2017\Projects\RetailApplication\RetailApplication\bin\MySql.Data.dll
+\\uol.le.ac.uk\root\student\home\s\src31\Desktop Files\final project\RetailApplication\RetailApplication\obj\Debug\RetailApplication.csprojAssemblyReference.cache
+\\uol.le.ac.uk\root\student\home\s\src31\Desktop Files\final project\RetailApplication\RetailApplication\obj\Debug\RetailApplication.csproj.CoreCompileInputs.cache
+\\uol.le.ac.uk\root\student\home\s\src31\Desktop Files\final project\RetailApplication\RetailApplication\obj\Debug\RetailApplication.dll
+\\uol.le.ac.uk\root\student\home\s\src31\Desktop Files\final project\RetailApplication\RetailApplication\obj\Debug\RetailApplication.pdb
+\\uol.le.ac.uk\root\student\home\s\src31\Desktop Files\final project\RetailApplication\RetailApplication\bin\RetailApplication.dll.config
+\\uol.le.ac.uk\root\student\home\s\src31\Desktop Files\final project\RetailApplication\RetailApplication\bin\RetailApplication.dll
+\\uol.le.ac.uk\root\student\home\s\src31\Desktop Files\final project\RetailApplication\RetailApplication\bin\RetailApplication.pdb
+\\uol.le.ac.uk\root\student\home\s\src31\Desktop Files\final project\RetailApplication\RetailApplication\obj\Debug\RetailApplication.csproj.CopyComplete
+\\uol.le.ac.uk\root\student\home\s\src31\Desktop Files\assignment2\libraryApplication\RetailApplication\bin\RetailApplication.dll.config
+\\uol.le.ac.uk\root\student\home\s\src31\Desktop Files\assignment2\libraryApplication\RetailApplication\bin\RetailApplication.dll
+\\uol.le.ac.uk\root\student\home\s\src31\Desktop Files\assignment2\libraryApplication\RetailApplication\bin\RetailApplication.pdb
+\\uol.le.ac.uk\root\student\home\s\src31\Desktop Files\assignment2\libraryApplication\RetailApplication\obj\Debug\RetailApplication.csprojAssemblyReference.cache
+\\uol.le.ac.uk\root\student\home\s\src31\Desktop Files\assignment2\libraryApplication\RetailApplication\obj\Debug\RetailApplication.csproj.CoreCompileInputs.cache
+\\uol.le.ac.uk\root\student\home\s\src31\Desktop Files\assignment2\libraryApplication\RetailApplication\obj\Debug\RetailApplication.csproj.CopyComplete
+\\uol.le.ac.uk\root\student\home\s\src31\Desktop Files\assignment2\libraryApplication\RetailApplication\obj\Debug\RetailApplication.dll
+\\uol.le.ac.uk\root\student\home\s\src31\Desktop Files\assignment2\libraryApplication\RetailApplication\obj\Debug\RetailApplication.pdb

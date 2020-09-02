@@ -1,0 +1,12 @@
+Z:\My Documents\Visual Studio 2017\Projects\RetailApplication\ClientApplication\bin\Debug\ClientApplication.exe.config
+Z:\My Documents\Visual Studio 2017\Projects\RetailApplication\ClientApplication\bin\Debug\ClientApplication.exe
+Z:\My Documents\Visual Studio 2017\Projects\RetailApplication\ClientApplication\bin\Debug\ClientApplication.pdb
+Z:\My Documents\Visual Studio 2017\Projects\RetailApplication\ClientApplication\obj\Debug\ClientApplication.csprojResolveAssemblyReference.cache
+Z:\My Documents\Visual Studio 2017\Projects\RetailApplication\ClientApplication\obj\Debug\ClientApplication.exe
+Z:\My Documents\Visual Studio 2017\Projects\RetailApplication\ClientApplication\obj\Debug\ClientApplication.pdb
+\\uol.le.ac.uk\root\student\home\s\src31\Desktop Files\project_work\RetailApplication\RetailApplication\ClientApplication\bin\Debug\ClientApplication.exe.config
+\\uol.le.ac.uk\root\student\home\s\src31\Desktop Files\project_work\RetailApplication\RetailApplication\ClientApplication\bin\Debug\ClientApplication.exe
+\\uol.le.ac.uk\root\student\home\s\src31\Desktop Files\project_work\RetailApplication\RetailApplication\ClientApplication\bin\Debug\ClientApplication.pdb
+\\uol.le.ac.uk\root\student\home\s\src31\Desktop Files\project_work\RetailApplication\RetailApplication\ClientApplication\obj\Debug\ClientApplication.csprojResolveAssemblyReference.cache
+\\uol.le.ac.uk\root\student\home\s\src31\Desktop Files\project_work\RetailApplication\RetailApplication\ClientApplication\obj\Debug\ClientApplication.exe
+\\uol.le.ac.uk\root\student\home\s\src31\Desktop Files\project_work\RetailApplication\RetailApplication\ClientApplication\obj\Debug\ClientApplication.pdb
